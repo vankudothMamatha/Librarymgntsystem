@@ -1,0 +1,3 @@
+ADMIN,admin,admin
+STUDENT,001,123,shiva,7815863866
+STUDENT,1,mammu,mamtha,630650735
